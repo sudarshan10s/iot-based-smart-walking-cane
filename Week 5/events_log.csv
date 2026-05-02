@@ -1,0 +1,5 @@
+Timestamp,Event,Value
+10:01,Obstacle,35cm
+10:03,Water,High
+10:05,Pit,Detected
+10:07,SOS,Triggered
