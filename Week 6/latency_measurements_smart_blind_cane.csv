@@ -1,0 +1,10 @@
+Module,Average_Latency_ms,Minimum_Latency_ms,Maximum_Latency_ms,Status
+Ultrasonic Sensor Detection,45,30,70,Fast Response
+IR Sensor Detection,30,20,50,Fast Response
+Water Sensor Detection,35,25,55,Stable
+MPU6050 Fall Detection,60,45,90,Reliable
+GPS Location Retrieval,1200,900,1800,Moderate Delay
+GSM SMS Alert,3500,2800,5000,Network Dependent
+Firebase Cloud Update,850,600,1200,Realtime Sync
+Buzzer Activation,20,10,35,Instant
+Vibration Motor Response,15,8,25,Instant
