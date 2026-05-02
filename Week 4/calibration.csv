@@ -1,0 +1,14 @@
+Sensor,Condition/Actual,Measured Value,Unit
+Ultrasonic,50,48,cm
+Ultrasonic,75,72,cm
+Ultrasonic,100,95,cm
+Ultrasonic,125,120,cm
+Ultrasonic,150,142,cm
+Water Sensor,Dry,500,ADC
+Water Sensor,Moist,1500,ADC
+Water Sensor,Wet,3000,ADC
+LDR,Dark,300,ADC
+LDR,Dim,800,ADC
+LDR,Bright,2000,ADC
+IR Sensor,Surface Present,1,Digital
+IR Sensor,Pit Detected,0,Digital
