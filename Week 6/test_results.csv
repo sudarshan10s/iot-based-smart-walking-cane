@@ -1,0 +1,31 @@
+Timestamp,Ultrasonic_Distance_cm,IR_Pit_Detection,Water_Sensor_Status,MPU6050_Fall_Detection,GPS_Status,GSM_SMS_Status,Firebase_Status,Buzzer_Status,Vibration_Motor_Status
+2026-05-01 10:00:00,54,Not Detected,Dry,Fall Detected,Connected,Pending,Synced,OFF,Inactive
+2026-05-01 10:05:00,162,Not Detected,Wet,Fall Detected,Weak Signal,Sent,Synced,OFF,Active
+2026-05-01 10:10:00,147,Detected,Wet,Normal,Connected,Sent,Updated,ON,Active
+2026-05-01 10:15:00,120,Detected,Dry,Normal,Weak Signal,Delivered,Updated,ON,Active
+2026-05-01 10:20:00,57,Detected,Dry,Normal,Connected,Pending,Retry,OFF,Inactive
+2026-05-01 10:25:00,93,Not Detected,Dry,Normal,Connected,Sent,Retry,ON,Active
+2026-05-01 10:30:00,50,Detected,Dry,Normal,Weak Signal,Delivered,Retry,ON,Inactive
+2026-05-01 10:35:00,139,Not Detected,Wet,Fall Detected,Weak Signal,Pending,Retry,ON,Active
+2026-05-01 10:40:00,166,Detected,Dry,Fall Detected,Weak Signal,Pending,Retry,OFF,Inactive
+2026-05-01 10:45:00,136,Not Detected,Wet,Normal,Connected,Pending,Retry,ON,Inactive
+2026-05-01 10:50:00,40,Detected,Dry,Normal,Connected,Delivered,Synced,OFF,Active
+2026-05-01 10:55:00,128,Detected,Dry,Fall Detected,Connected,Delivered,Retry,ON,Active
+2026-05-01 11:00:00,129,Detected,Dry,Fall Detected,Weak Signal,Sent,Updated,OFF,Inactive
+2026-05-01 11:05:00,71,Not Detected,Dry,Fall Detected,Connected,Pending,Updated,OFF,Active
+2026-05-01 11:10:00,131,Not Detected,Dry,Fall Detected,Connected,Delivered,Synced,OFF,Active
+2026-05-01 11:15:00,54,Not Detected,Wet,Normal,Connected,Delivered,Retry,ON,Inactive
+2026-05-01 11:20:00,171,Not Detected,Wet,Fall Detected,Weak Signal,Pending,Updated,ON,Inactive
+2026-05-01 11:25:00,166,Detected,Wet,Normal,Connected,Pending,Updated,ON,Inactive
+2026-05-01 11:30:00,62,Detected,Dry,Normal,Connected,Pending,Updated,ON,Inactive
+2026-05-01 11:35:00,67,Detected,Wet,Normal,Connected,Sent,Retry,ON,Inactive
+2026-05-01 11:40:00,173,Detected,Dry,Normal,Weak Signal,Pending,Retry,ON,Active
+2026-05-01 11:45:00,15,Detected,Dry,Normal,Weak Signal,Sent,Synced,OFF,Active
+2026-05-01 11:50:00,117,Detected,Dry,Normal,Connected,Delivered,Updated,OFF,Active
+2026-05-01 11:55:00,137,Not Detected,Dry,Fall Detected,Connected,Sent,Retry,ON,Inactive
+2026-05-01 12:00:00,129,Detected,Wet,Normal,Weak Signal,Pending,Synced,ON,Inactive
+2026-05-01 12:05:00,62,Detected,Wet,Normal,Connected,Sent,Synced,ON,Inactive
+2026-05-01 12:10:00,147,Not Detected,Wet,Normal,Weak Signal,Pending,Updated,ON,Active
+2026-05-01 12:15:00,70,Detected,Wet,Fall Detected,Connected,Sent,Retry,ON,Inactive
+2026-05-01 12:20:00,121,Not Detected,Dry,Fall Detected,Connected,Delivered,Retry,ON,Inactive
+2026-05-01 12:25:00,92,Not Detected,Dry,Fall Detected,Weak Signal,Pending,Synced,ON,Inactive
