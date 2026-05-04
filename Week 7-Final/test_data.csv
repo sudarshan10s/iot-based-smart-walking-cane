@@ -1,0 +1,16 @@
+Test ID,Sensor/Module,Status
+T1,Ultrasonic Sensor,PASS
+T2,Ultrasonic Sensor,PASS
+T3,IR Sensor,PASS
+T4,Water Sensor,PASS
+T5,Water Sensor,PASS
+T6,MPU6050,PASS
+T7,GPS Module,PASS
+T8,Firebase,PASS
+T9,Buzzer,PASS
+T10,Vibration Motor,PASS
+T11,LED Alert,PASS
+T12,ESP32 WiFi,PASS
+T13,GPS + Firebase,PASS
+T14,Battery Module,PASS
+T15,Complete System,PASS
